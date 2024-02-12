@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5deccfbc8d0cd994a94e6c112c4ada22, type: 3}
+  m_Name: Demo Game Settings
+  m_EditorClassIdentifier: 
+  gameName: CollectHeads.IO
+  buildType: 2
+  gameType: 1
+  authenticationType: 1
+  canRunInBackground: 1
+  inTestingMode: 1
+  clearPlayerPrefs: 0
+  targetFrameRate: 30
+  vSyncCount: 0
+  webGLHostLink: 
+  showSplashScreen: 1
+  splashScreenTTL: 4
+  sessionGameTime: 600
+  automaticSyncing: 1
+  timeAliveInBackground: 120000
+  playerTTL: 0
+  emptyRoomTTL: 60000
+  cleanupCacheOnLeave: 1
